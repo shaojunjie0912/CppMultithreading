@@ -1,0 +1,5 @@
+target("msg_server_condition")
+    set_kind("binary")
+    set_encodings("source:utf-8")
+    add_includedirs("include",{public=true})
+    add_files("src/*.cpp")

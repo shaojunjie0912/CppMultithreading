@@ -1,0 +1,9 @@
+{
+    packages = {
+        "/home/sjj/.xmake/packages/n/nasm/2.16.01/741359323fea438382579625e96d04ab",
+        "/home/sjj/.xmake/packages/p/python/3.12.3/e060770aa5524556bd4dbd54471db6c0",
+        "/home/sjj/.xmake/packages/m/meson/1.5.1/483408b3fe904a36b4839181d67b3c18",
+        "/home/sjj/.xmake/packages/l/libdrm/2.4.118/1b3643c7b5084929bfbf9a3bd621b192",
+        "/home/sjj/.xmake/packages/f/ffmpeg/7.0/927a7605f9ef47db9de73f45b4a37225"
+    }
+}

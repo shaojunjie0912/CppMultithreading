@@ -1,0 +1,20 @@
+set_project("CppMultithreading")
+set_languages("c++2a")
+set_defaultmode("debug")
+
+add_rules("plugin.compile_commands.autoupdate")
+add_rules("mode.debug", "mode.release")
+
+-- includes("basic")
+-- includes("msg_server")
+-- includes("msg_server_condition")
+-- includes("base16_encoding")
+-- includes("thread_pool")
+-- includes("ffmpeg_video")
+-- includes("test")
+includes("thread_queue")
+
+-- target("main")
+--     set_kind("binary")
+--     set_encodings("source:utf-8")
+--     add_files("src/main.cpp")

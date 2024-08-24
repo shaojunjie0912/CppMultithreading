@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/sjj/CppMultithreading",
+  "arguments": ["/usr/sbin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++2a", "-Ithread_queue/include", "-finput-charset=UTF-8", "-o", "build/.objs/thread_queue/linux/x86_64/debug/thread_queue/src/int_string_count.cpp.o", "thread_queue/src/int_string_count.cpp"],
+  "file": "thread_queue/src/int_string_count.cpp"
+},
+{
+  "directory": "/home/sjj/CppMultithreading",
+  "arguments": ["/usr/sbin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++2a", "-Ithread_queue/include", "-finput-charset=UTF-8", "-o", "build/.objs/thread_queue/linux/x86_64/debug/thread_queue/src/int_count.cpp.o", "thread_queue/src/int_count.cpp"],
+  "file": "thread_queue/src/int_count.cpp"
+}]
