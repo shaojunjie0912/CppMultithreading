@@ -1,8 +1,0 @@
-{
-    options = { },
-    mtimes = {
-        ["thread_queue/xmake.lua"] = 1722567729,
-        ["xmake.lua"] = 1724502960
-    },
-    recheck = false
-}
